@@ -1,0 +1,12 @@
+Button {
+    Texture         = "Black.png" Part( 0, 64, 45, 50) Middle(10, 0, 25, 50);
+    TextureHover    = "Black.png" Part(45, 64, 45, 50) Middle(10, 0, 25, 50);
+    TextureDown     = "Black.png" Part(90, 64, 45, 50) Middle(10, 0, 25, 50);
+    TextColor       = rgb(0, 0, 0);
+    TextColorHover  = rgb(0, 0, 0);
+}
+
+Button2 {
+    Texture = "Black.png" Part( 0, 64, 45, 50) Middle(10, 0, 25, 50);
+    TextColor = rgb(0, 0, 0);
+}
